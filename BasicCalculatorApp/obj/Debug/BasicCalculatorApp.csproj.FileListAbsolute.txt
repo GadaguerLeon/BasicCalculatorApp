@@ -1,0 +1,7 @@
+C:\Users\Gadaguer Leon\source\repos\BasicCalculatorApp\BasicCalculatorApp\bin\Debug\BasicCalculatorApp.exe.config
+C:\Users\Gadaguer Leon\source\repos\BasicCalculatorApp\BasicCalculatorApp\bin\Debug\BasicCalculatorApp.exe
+C:\Users\Gadaguer Leon\source\repos\BasicCalculatorApp\BasicCalculatorApp\bin\Debug\BasicCalculatorApp.pdb
+C:\Users\Gadaguer Leon\source\repos\BasicCalculatorApp\BasicCalculatorApp\obj\Debug\BasicCalculatorApp.csprojAssemblyReference.cache
+C:\Users\Gadaguer Leon\source\repos\BasicCalculatorApp\BasicCalculatorApp\obj\Debug\BasicCalculatorApp.csproj.CoreCompileInputs.cache
+C:\Users\Gadaguer Leon\source\repos\BasicCalculatorApp\BasicCalculatorApp\obj\Debug\BasicCalculatorApp.exe
+C:\Users\Gadaguer Leon\source\repos\BasicCalculatorApp\BasicCalculatorApp\obj\Debug\BasicCalculatorApp.pdb
